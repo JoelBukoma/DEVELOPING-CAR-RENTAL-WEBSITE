@@ -41,12 +41,15 @@
       display: none;
     }
   }
+  .fa-bars {
+    display: none;
+  }
   .menu-icon {
     display: none;
     font-size: 1.5rem;
     color: white;
     cursor: pointer;
-    @media (max-width: 768px) {
+    @media (min-width: 768px) {
       display: block;
     }
   }
