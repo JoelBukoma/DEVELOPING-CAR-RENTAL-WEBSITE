@@ -129,6 +129,12 @@
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 1rem;
+
+    @media (max-width: 768px) {
+      .idea {
+        width: 100%;
+      }
+    }
   }
   .idea {
     width: 20%;
