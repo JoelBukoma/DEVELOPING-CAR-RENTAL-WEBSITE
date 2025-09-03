@@ -57,7 +57,7 @@
       display: none;
     }
     .navbar .links {
-      display: flex !important;
+      display: flex;
       flex-direction: row;
       position: static;
       background: none;
