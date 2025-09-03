@@ -50,7 +50,7 @@
     color: white;
     cursor: pointer;
     @media (min-width: 768px) {
-      display: block;
+      display: none;
     }
   }
   .links a {
